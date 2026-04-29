@@ -581,4 +581,4 @@ that uses:
 
 for intelligent trading decisions.
 
-This project is portfolio-worthy, hackathon-worthy, and strong for internships in AI, FinTech, and Quant development.
+
