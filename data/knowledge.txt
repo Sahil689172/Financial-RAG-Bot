@@ -1,0 +1,291 @@
+[INDICATOR] RSI below 30 indicates oversold condition — potential reversal to the upside
+[INDICATOR] RSI above 70 indicates overbought condition — potential reversal to the downside
+[INDICATOR] RSI stuck in overbought region for prolonged period signals excess positive momentum — look for buying opportunities, not shorting
+[INDICATOR] RSI stuck in oversold region for prolonged period signals excess negative momentum — look for selling opportunities, not buying
+[INDICATOR] RSI moving above 30 after prolonged oversold period signals a buy opportunity
+[INDICATOR] RSI moving below 70 after prolonged overbought period signals a sell opportunity
+[INDICATOR] RSI is a leading momentum oscillator that gives strongest signals during sideways, non-trending markets
+[INDICATOR] MACD line is calculated as 12-day EMA minus 26-day EMA; positive MACD means upward momentum
+[INDICATOR] Negative MACD value indicates downward momentum; higher magnitude means stronger downtrend
+[INDICATOR] MACD signal line is a 9-day EMA of the MACD line; crossovers generate buy/sell signals
+[INDICATOR] Bullish MACD signal: MACD line crosses above the 9-day signal line — look for buy opportunities
+[INDICATOR] Bearish MACD signal: MACD line crosses below the 9-day signal line — look for sell opportunities
+[INDICATOR] MACD crossing center line from negative to positive territory signals increasing bullish momentum
+[INDICATOR] MACD crossing center line from positive to negative territory signals increasing bearish momentum
+[INDICATOR] MACD works best in trending markets; generates whipsaws in sideways markets
+[INDICATOR] Bollinger Bands work best in sideways markets; fail in strongly trending markets
+[INDICATOR] Price reaching upper Bollinger Band signals sell opportunity; price at lower band signals buy opportunity
+[INDICATOR] EMA reacts faster to current price than SMA — use EMA for quicker trading decisions
+[INDICATOR] Price above 50-day EMA signals bullish outlook; price below 50-day EMA signals bearish outlook
+[INDICATOR] 9-day EMA crossing above 21-day EMA generates short-term buy signal
+[INDICATOR] 50-day EMA crossing above 100-day EMA generates medium-term buy signal
+[INDICATOR] 100-day EMA crossing above 200-day EMA generates long-term buy signal
+[INDICATOR] ADX above 25 indicates a strong present trend; ADX below 20 suggests trend lacks strength
+[INDICATOR] ADX between 20 and 25 is a grey area — exercise caution
+[INDICATOR] Buy signal on ADX: ADX is above 25 AND +DI crosses over –DI
+[INDICATOR] Sell signal on ADX: ADX is above 25 AND –DI crosses over +DI
+[INDICATOR] Aroon Up above 50 and Aroon Down below 30 generates a buy signal
+[INDICATOR] Aroon Down above 50 and Aroon Up below 30 generates a sell signal
+[INDICATOR] VWAP represents the average traded price weighted by volume — used as intraday benchmark
+[INDICATOR] Supertrend indicator generates buy when price turns greater than the indicator value
+[INDICATOR] Supertrend indicator generates sell when price turns lesser than the indicator value
+[INDICATOR] Supertrend works best in trending markets; generates false signals in sideways markets
+[INDICATOR] ATR (Average True Range) is used to identify stop-loss levels based on volatility
+[INDICATOR] Delta of an option represents the rate of change of option premium per unit change in underlying price
+[INDICATOR] Deep ITM options have delta close to 1; buying them is almost equivalent to buying the underlying
+[INDICATOR] Deep OTM options have delta close to 0; avoid buying them as they rarely move
+[INDICATOR] ATM options have delta of approximately 0.5; maximum bang for buck lies here
+[INDICATOR] Theta represents time decay; long option positions lose value daily due to theta
+[INDICATOR] Theta is favorable for option sellers — they benefit as option premium erodes over time
+[INDICATOR] Gamma measures the rate of change of delta; large gamma means large directional risk
+[INDICATOR] Shorting options carries the risk of being short gamma — risk can escalate rapidly
+[INDICATOR] Implied volatility (IV) reflects market's expectation of future price movement embedded in option price
+[INDICATOR] India VIX represents implied volatility of Nifty options — higher VIX means higher expected volatility
+[PATTERN] Bullish Marubuzo: open equals low and close equals high — signals strong buying interest
+[PATTERN] Bearish Marubuzo: open equals high and close equals low — signals strong selling interest
+[PATTERN] Bullish Marubuzo buy trade setup: buy at close price with stop loss at the low of the candle
+[PATTERN] Bearish Marubuzo sell trade setup: sell at close price with stop loss at the high of the candle
+[PATTERN] Spinning top in a downtrend signals indecision — possible trend reversal or consolidation before resuming
+[PATTERN] Spinning top in an uptrend signals indecision — possible trend reversal or profit booking
+[PATTERN] Doji in a downtrend signals possible reversal — buy only half quantity and wait for confirmation
+[PATTERN] Doji in an uptrend signals pause — potential trend reversal; reduce position size
+[PATTERN] Hammer: paper umbrella at the bottom of a downtrend — bullish reversal signal
+[PATTERN] Hammer trade: buy at close with stop loss at the low of the hammer candle
+[PATTERN] Hanging Man: paper umbrella at the top of an uptrend — bearish reversal signal
+[PATTERN] Hanging Man trade: sell/short at close with stop loss at the high of the hanging man
+[PATTERN] Shooting Star: small body with long upper shadow at top of uptrend — bearish reversal signal
+[PATTERN] Shooting Star trade: short at close with stop loss at the high of the shooting star
+[PATTERN] Bullish Engulfing: blue candle on P2 completely engulfs red candle on P1 at bottom of downtrend — buy signal
+[PATTERN] Bearish Engulfing: red candle on P2 completely engulfs blue candle on P1 at top of uptrend — sell signal
+[PATTERN] Bullish Engulfing stop loss: lowest low between P1 and P2
+[PATTERN] Bearish Engulfing stop loss: highest high between P1 and P2
+[PATTERN] Bullish Harami: small blue candle on P2 within the range of red P1 at bottom of downtrend — buy signal
+[PATTERN] Bearish Harami: small red candle on P2 within the range of blue P1 at top of uptrend — sell signal
+[PATTERN] Morning Star: 3-day bullish reversal pattern at the bottom of a downtrend — buy on P3
+[PATTERN] Morning Star stop loss: lowest low of P1, P2, and P3
+[PATTERN] Evening Star: 3-day bearish reversal pattern at the top of an uptrend — short on P3
+[PATTERN] Evening Star stop loss: highest high of P1, P2, and P3
+[PATTERN] Gap up opening signals buyer enthusiasm — stock likely to maintain bullish momentum
+[PATTERN] Gap down opening signals seller aggression — stock likely to maintain bearish momentum
+[PATTERN] Double Bottom pattern at support level signals strong bullish reversal
+[PATTERN] Triple Top pattern at resistance level signals strong bearish reversal
+[PATTERN] Range breakout with high volume and strong momentum confirms new trend direction
+[PATTERN] False breakout is characterized by low volumes and low momentum after the break
+[PATTERN] Flag formation after a breakout offers a second buy opportunity at pullback
+[PATTERN] A true breakout has two attributes: above-average volumes and high price momentum
+[PATTERN] Fibonacci retracement levels act as potential support zones during corrections in an uptrend
+[PATTERN] Accumulation phase: smart money quietly buys at lows while retail sells — creates support
+[PATTERN] Distribution phase: smart money offloads holdings at highs while retail buys — creates resistance
+[PATTERN] Mark down phase follows distribution — sharp sell-off after institutional selling is complete
+[LOGIC] If RSI < 30 AND bullish candlestick pattern appears → strong buy signal with double confirmation
+[LOGIC] If RSI > 70 AND bearish candlestick pattern appears → strong sell signal with double confirmation
+[LOGIC] If MACD line > signal line AND price > EMA → bullish confluence, look for buy entry
+[LOGIC] If MACD line < signal line AND price < EMA → bearish confluence, look for sell entry
+[LOGIC] If breakout occurs with volume > 10-day average AND momentum is high → strong directional signal
+[LOGIC] If candlestick pattern forms near support level → buy signal has higher probability of success
+[LOGIC] If candlestick pattern forms near resistance level → sell signal has higher probability of success
+[LOGIC] Buy only when at least 3 of 4 checklist items confirm: candlestick pattern, S&R alignment, above-average volume, indicator confirmation
+[LOGIC] If all 4 checklist items confirm → trade with full position size; if 3 confirm → trade with reduced size
+[LOGIC] If low of bullish pattern does NOT coincide with support → skip the trade
+[LOGIC] For long trades: low of the pattern should be near support level
+[LOGIC] For short trades: high of the pattern should be near resistance level
+[LOGIC] Reward to Risk Ratio (RRR) below 1 → skip the trade; only take trades with RRR ≥ 1.5
+[LOGIC] EMA crossover: short-term EMA crosses above long-term EMA → buy signal; below → sell signal
+[LOGIC] If ADX > 25 AND +DI > -DI → uptrend confirmed, buy
+[LOGIC] If ADX > 25 AND -DI > +DI → downtrend confirmed, sell
+[LOGIC] If price is above VWAP → bullish bias for the day; below VWAP → bearish bias
+[LOGIC] If call option delta < 0.3 → avoid buying; low probability of becoming profitable
+[LOGIC] Buy call option only when expecting volatility to increase; sell call option when expecting volatility to decrease
+[LOGIC] If event-driven volatility spike expected → sell options (collect premium) before event; buy back after IV collapses
+[LOGIC] If stock is in strong uptrend with pullback on low volume → buy at support; high probability continuation
+[LOGIC] Short the pair when residuals reach +2 standard deviations; long the pair when residuals hit -2 SD
+[LOGIC] Pair trade stop loss: -3 SD for long trades; +3 SD for short trades
+[LOGIC] Momentum portfolio: rank stocks by 12-month returns; buy top 12-15 stocks; rebalance monthly
+[LOGIC] Price-based momentum strategy works well in uptrending market; underperforms in sideways or down market
+[LOGIC] Calendar spread: buy near-month contract and sell far-month contract (or vice versa) to reduce directional risk
+[LOGIC] In any arbitrage: always buy the asset in the cheaper market and sell the same asset in the expensive market
+[LOGIC] Cash and carry arbitrage: buy spot and sell futures when futures trade at abnormal premium to fair value
+[LOGIC] Futures fair value = Spot price * e^(risk-free rate * time to expiry / 365)
+[LOGIC] If Reward:Risk < 1 → do not take the trade, no matter how confident you are
+[LOGIC] Do not buy OTM options when target is expected over 25+ days — buy ITM options instead
+[LOGIC] Buy slightly OTM options when expecting a quick (1–2 day) large move from an event
+[LOGIC] Bull call spread: buy ATM call and sell OTM call to reduce premium cost when moderately bullish
+[LOGIC] Bear put spread: buy ITM put and sell OTM put to reduce cost when moderately bearish
+[LOGIC] Short straddle: sell ATM call and put when expecting the market to stay flat — profits from time decay
+[LOGIC] Long straddle: buy ATM call and put when expecting a large move but unsure of direction
+[LOGIC] Long strangle: buy OTM call and OTM put when expecting a big move with lower cost than straddle
+[LOGIC] Sell put option when bullish; buy put option when bearish
+[LOGIC] Sell call option when bearish or neutral; buy call option only when clearly bullish
+[LOGIC] If stock breaks support on high volume → bearish signal; initiate or add to short position
+[LOGIC] If stock breaks resistance on high volume → bullish signal; initiate or add to long position
+[LOGIC] Hedge systematic risk using Nifty futures; diversify 15-20 stocks to eliminate unsystematic risk
+[LOGIC] Do not trade on low-volume days — low volume indicates retail participation without smart money support
+[RISK] Never risk more than 1–3% of total trading capital on any single trade
+[RISK] The 5% rule: do not risk more than 5% of capital on any single trade at maximum
+[RISK] Use percentage risk position sizing: position size = (capital * risk %) / (entry price - stop loss)
+[RISK] Always define stop loss before entering a trade; never trade without a defined risk level
+[RISK] Trailing stop loss: as trade moves in your favor, move stop loss to lock in profits
+[RISK] Stop loss for hammer pattern = low of the hammer candle
+[RISK] Stop loss for hanging man = high of the hanging man candle
+[RISK] Stop loss for shooting star = high of the shooting star candle
+[RISK] Stop loss for bullish engulfing = lowest low between P1 and P2
+[RISK] Stop loss for bearish engulfing = highest high between P1 and P2
+[RISK] Stop loss for morning star = lowest low of the 3-candle pattern
+[RISK] Stop loss for evening star = highest high of the 3-candle pattern
+[RISK] Higher leverage = higher risk; a small adverse move can wipe out capital rapidly
+[RISK] Unsystematic risk can be diversified away with 15–21 stocks across different sectors
+[RISK] Systematic risk cannot be diversified but can be hedged using index futures
+[RISK] Options sellers must deposit margin; they carry unlimited risk and limited profit potential
+[RISK] Deep OTM options have low delta and are unlikely to become profitable — avoid buying them
+[RISK] Do not sell ATM options unless you are very confident about direction and have margin capacity
+[RISK] Avoid buying far OTM options just because they are cheap — most expire worthless
+[RISK] Option buyers have limited risk (premium paid) but need a large move to profit — odds are against them
+[RISK] 2 out of 3 possible outcomes at expiry favor option sellers — sellers have a statistical edge
+[RISK] Buying options when IV is high (before events) is costly — IV crush destroys premium after event
+[RISK] Portfolio Value at Risk (VaR): take the average of the worst 5% of daily returns as worst-case loss estimate
+[RISK] Avoid over-concentration in one sector or stock — diversification reduces unsystematic risk
+[RISK] Pair trading risk: the pair may diverge further rather than mean-revert — always set a stop loss
+[RISK] Calendar spread risk: liquidity, volatility, and execution risks still exist even without directional risk
+[RISK] Futures leverage amplifies both profits and losses — use NRML for overnight positions; higher margin required
+[RISK] Overnight risk in futures: global events can gap the price against your position before you can react
+[RISK] Credit risk in debt instruments: issuer can default on coupon or principal — check credit ratings
+[RISK] Interest rate risk in bonds: rising interest rates reduce bond prices; longer duration = higher sensitivity
+[RISK] Liquidity risk: unable to exit a position at desired price due to lack of buyers or sellers
+[PSYCHOLOGY] Buy strength and sell weakness — only buy on blue candle days; only sell on red candle days
+[PSYCHOLOGY] Look for a prior trend before acting on a candlestick signal — reversal patterns require opposite prior trend
+[PSYCHOLOGY] Risk averse traders wait for next-day confirmation before entering a trade — more reliable but potentially higher entry
+[PSYCHOLOGY] Risk takers enter on the day the pattern forms — higher risk but better entry price
+[PSYCHOLOGY] Confirmation bias: the mind seeks information that supports existing views — consciously seek opposing data
+[PSYCHOLOGY] Do not let losses from one trade influence the next trade — treat each trade independently
+[PSYCHOLOGY] Traders who lose too much capital on a single trade face psychological pressure to over-trade to recover
+[PSYCHOLOGY] Cutting losses early preserves capital for future high-quality trade setups
+[PSYCHOLOGY] Do not chase a stock that has moved far from your planned entry price — wait for the next setup
+[PSYCHOLOGY] Anchor bias: do not anchor to a specific buy price — if opportunity passes, move on
+[PSYCHOLOGY] Successful traders know when to stay in a trend and when to exit — avoid premature profit booking
+[PSYCHOLOGY] The urge to buy OTM options for quick gains is a behavioral trap — often leads to consistent small losses
+[PSYCHOLOGY] When a trade goes against you and the stop loss is not triggered, do not add to a losing position out of hope
+[PSYCHOLOGY] A trade should be based on calculated risk, not speculative risk or hope
+[PSYCHOLOGY] Humility and discipline separate consistently profitable traders from gamblers
+[PSYCHOLOGY] Never increase position size after a series of losses — this is emotional trading, not systematic
+[PSYCHOLOGY] Reversion to mean is a powerful force — extreme prices tend to return toward average over time
+[PSYCHOLOGY] Fear and greed drive markets: accumulation phase (greed of smart money), distribution (fear of retail)
+[PSYCHOLOGY] "The trend is your friend" — trade in the direction of the dominant trend, not against it
+[PSYCHOLOGY] Price-based momentum works because winning stocks tend to continue winning in the short term
+[CONTEXT] RSI can remain overbought in strong uptrends — do not short blindly
+[CONTEXT] RSI can remain oversold in strong downtrends — do not buy blindly
+[CONTEXT] Indicators give false signals in sideways markets — confirm with price action
+[CONTEXT] Breakouts without volume confirmation often fail and reverse
+[CONTEXT] Strong trends reduce reliability of mean-reversion indicators like RSI
+[CONTEXT] Support and resistance are zones, not exact price levels
+[CONTEXT] Price action is more reliable than indicators — indicators lag price
+[CONTEXT] Multiple confirmations increase probability, not certainty
+[CONTEXT] Market conditions change — strategies must adapt accordingly
+[LOGIC] If price above EMA50 AND RSI between 40-60 → healthy uptrend continuation zone
+[LOGIC] If price below EMA50 AND RSI between 40-60 → weak market, avoid trades
+[LOGIC] If RSI divergence appears (price higher high, RSI lower high) → weakening trend
+[LOGIC] If RSI divergence appears (price lower low, RSI higher low) → potential reversal
+[LOGIC] If price consolidates near resistance with rising volume → breakout probability increases
+[LOGIC] If price consolidates near support with falling volume → breakdown probability decreases
+[LOGIC] If breakout happens after long consolidation → stronger move expected
+[LOGIC] If price moves too far from EMA → high probability of pullback
+[LOGIC] Enter trades near support in uptrend and near resistance in downtrend
+[LOGIC] Avoid entering trades in the middle of a range — wait for edge (support/resistance)
+[RISK] Larger stop loss requires smaller position size — adjust accordingly
+[RISK] High volatility environments require wider stop loss and reduced position size
+[RISK] Never average down in a losing trade without a predefined strategy
+[RISK] Capital preservation is more important than profit generation
+[RISK] Consecutive losses indicate strategy or market mismatch — pause and reassess
+[RISK] Risk increases significantly when trading against the trend
+[RISK] Avoid trading during major news events unless strategy is designed for volatility
+[RISK] Slippage and execution costs can reduce actual profitability — factor them in
+[PATTERN] Higher highs and higher lows indicate uptrend
+[PATTERN] Lower highs and lower lows indicate downtrend
+[PATTERN] Sideways market forms equal highs and equal lows — avoid trend strategies
+[PATTERN] Break of structure confirms potential trend reversal
+[PATTERN] Retest of broken resistance as support confirms breakout strength
+[PATTERN] Failed retest after breakout signals weak trend continuation
+[PSYCHOLOGY] Missing a trade is better than entering a bad trade
+[PSYCHOLOGY] Consistency comes from discipline, not prediction accuracy
+[PSYCHOLOGY] Overconfidence after wins leads to larger losses
+[PSYCHOLOGY] The goal is to execute strategy, not to be right every time
+[PSYCHOLOGY] Good traders think in probabilities, not certainties
+[LOGIC] Trade in direction of higher timeframe trend — lower timeframe signals should align
+[LOGIC] If daily trend is up and intraday shows pullback → buy opportunity
+[LOGIC] If lower timeframe contradicts higher timeframe → reduce position size or avoid trade
+[LOGIC] Strong trends on higher timeframe override weak signals on lower timeframe
+[LOGIC] Use higher timeframe for direction and lower timeframe for entry
+[INDICATOR] Volume increase confirms strength of price move
+[INDICATOR] Rising price with falling volume signals weak trend
+[INDICATOR] Falling price with decreasing volume signals selling exhaustion
+[LOGIC] Breakout without volume confirmation → avoid trade
+[LOGIC] Volume spike at support indicates strong buying interest
+[LOGIC] Volume spike at resistance indicates strong selling pressure
+[CONTEXT] Market moves toward liquidity zones where stop losses are clustered
+[LOGIC] Price often sweeps support/resistance before reversing — false breakout possible
+[LOGIC] Avoid placing stop loss exactly at obvious support/resistance levels
+[CONTEXT] Institutional traders accumulate at support and distribute at resistance
+[LOGIC] Enter trade only after candle closes — avoid premature entry
+[LOGIC] Wait for retest after breakout before entering for safer trade
+[LOGIC] Partial profit booking reduces psychological pressure and locks gains
+[LOGIC] Exit trade if original setup conditions are invalidated
+[LOGIC] Avoid entering trade after large impulsive move — wait for pullback
+[CONTEXT] Sideways market reduces effectiveness of trend-following strategies
+[LOGIC] In sideways market, buy near support and sell near resistance
+[LOGIC] Avoid breakout trades in low volatility sideways markets
+[LOGIC] Indicators generate false signals in choppy conditions
+[INDICATOR] Strong momentum is indicated by large candles with small wicks
+[INDICATOR] Weak momentum shows small candles with long wicks
+[LOGIC] Strong momentum breakout has higher continuation probability
+[LOGIC] Weak momentum breakout has higher failure probability
+[LOGIC] Gap up with strong follow-through confirms bullish continuation
+[LOGIC] Gap up without follow-through often gets filled
+[LOGIC] Gap down with strong selling confirms bearish continuation
+[LOGIC] Gap fill strategy works when no strong trend is present
+[RISK] Risk should be calculated before entry, not adjusted after loss
+[RISK] High probability trades still require strict risk control
+[RISK] Large wins come from letting profits run, not increasing risk
+[RISK] Avoid increasing position size to recover losses
+[RISK] Consistent small losses are part of profitable strategy
+[LOGIC] Skip trades when multiple indicators give conflicting signals
+[LOGIC] Skip trades during low volume sessions
+[LOGIC] Skip trades when risk-reward is unclear
+[LOGIC] Trade only when clear setup with defined stop loss exists
+[LOGIC] Break of structure followed by retest increases probability of trend continuation
+[LOGIC] Failure to break previous high/low indicates weak trend
+[LOGIC] Higher timeframe support/resistance has stronger influence than lower timeframe
+[PSYCHOLOGY] Avoid revenge trading after a loss
+[PSYCHOLOGY] Do not overtrade during high emotional states
+[PSYCHOLOGY] Following a system is more important than individual trade outcome
+[PSYCHOLOGY] Losses are business expenses, not failures
+[CONTEXT] Market operates in three regimes: trending, sideways, and volatile
+[LOGIC] Use trend-following strategies in trending markets and mean-reversion in sideways markets
+[LOGIC] If ADX < 20 → avoid trend strategies
+[LOGIC] If ADX > 25 → favor trend continuation strategies
+[CONTEXT] Strategy failure often indicates change in market regime
+[INDICATOR] High volatility increases price movement range and risk
+[INDICATOR] Low volatility often precedes large breakout moves
+[LOGIC] If volatility contracts significantly → prepare for breakout
+[LOGIC] If volatility expands rapidly → avoid late entries
+[CONTEXT] Volatility expansion follows volatility contraction cycles
+[LOGIC] Strong moves have follow-through candles — weak moves stall quickly
+[LOGIC] If breakout candle is large but next candle reverses → likely false breakout
+[LOGIC] True trend shows consistent higher closes in uptrend and lower closes in downtrend
+[LOGIC] Sudden sharp moves without volume confirmation are often traps
+[LOGIC] Best entries occur near support in uptrend and resistance in downtrend
+[LOGIC] Late entries reduce reward-risk ratio significantly
+[LOGIC] Enter after confirmation candle closes rather than during formation
+[LOGIC] Avoid entering immediately after large breakout candle
+[LOGIC] Exit partial position at first target to reduce risk
+[LOGIC] Let remaining position ride trend with trailing stop loss
+[LOGIC] Exit trade if momentum weakens significantly
+[LOGIC] Exit if price closes below key support in long trade
+[RISK] Stop trading after hitting daily loss limit
+[RISK] Reduce position size after consecutive losses
+[RISK] Avoid trading when mentally fatigued
+[RISK] Maximum drawdown threshold should be predefined
+[CONTEXT] Smart money accumulates before price moves and distributes before decline
+[LOGIC] Sudden volume spike without price movement indicates accumulation or distribution
+[LOGIC] Strong breakout after accumulation phase has higher probability of success
+[PSYCHOLOGY] No strategy guarantees profit — think in probabilities
+[PSYCHOLOGY] Even high-probability setups can fail
+[PSYCHOLOGY] Consistency comes from executing edge over many trades
